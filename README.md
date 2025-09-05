@@ -6,14 +6,14 @@ O trabalho faz parte da trilha de **Manipulação e Visualização de Dados (Blo
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 - `I2A2_TAREFA6_GRUPOX.ipynb` → Notebook com a solução completa do desafio.  
 - `desafio6_lixo_eletronico.csv` → Base de dados fictícia utilizada na análise (150 registros).  
 
 ---
 
-## 📝 Descrição do Desafio
+## Descrição do Desafio
 
 O descarte inadequado de resíduos eletrônicos é um problema crescente, especialmente na região amazônica, onde a logística e a falta de infraestrutura agravam a situação.  
 Neste desafio, o papel dos **Tecnoguardas da Amazônia** é investigar a base de dados, encontrar padrões e propor soluções práticas.  
@@ -33,7 +33,7 @@ As etapas desenvolvidas foram:
 
 ---
 
-## ⚙️ Como Executar
+## Como Executar
 
 1. Clone este repositório:  
    ```bash
@@ -61,11 +61,11 @@ As etapas desenvolvidas foram:
 
 ---
 
-## 🌍 Insight e Proposta
+## Insight e Proposta
 Os resultados mostram padrões críticos de descarte, tanto em termos de peso quanto de origem/destino.
 A proposta final envolve:
 - Pontos de coleta em municípios estratégicos,
 - Campanhas de educação ambiental direcionadas, e
 - Logística reversa fluvial para áreas de difícil acesso.
 
-### Autora: Polyana – Graduanda em Biotecnologia / Cientista de Dados em formação.
+| Autora: Polyana – Graduanda em Biotecnologia / Cientista de Dados em formação.
